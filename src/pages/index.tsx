@@ -1,7 +1,7 @@
 import { styled } from "@/styles";
 
 const Button = styled("button", {
-  backgroundColor: "$rocketseat",
+  backgroundColor: "$green300",
   color: '#fff',
   padding: "10px 24px",
   borderRadius: 5,
@@ -12,7 +12,7 @@ const Button = styled("button", {
   transition: "background-color 0.2s",
 
   "&:hover": {
-    backgroundColor: "#7723d8",
+    backgroundColor: "$green500",
   },
 
 
